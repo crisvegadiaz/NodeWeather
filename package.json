@@ -1,0 +1,14 @@
+{
+  "name": "nodeweather",
+  "version": "1.0.0",
+  "description": "App para el clima",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "Cristian Diaz Vega",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "chalk": "^5.3.0"
+  }
+}
